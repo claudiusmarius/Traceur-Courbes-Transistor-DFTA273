@@ -4,7 +4,7 @@
 
 ## Présentation
 
-Le DFTA273 est un traceur de courbes destiné à la caractérisation des transistors bipolaires NPN et PNP.
+Le DFTA273 est un traceur de courbes destiné à la caractérisation des transistors bipolaires NPN.
 
 Le projet est basé sur un Seeeduino XIAO (SAMD21) et a été développé dans le but de réaliser un instrument de mesure simple, économique et facilement reproductible.
 
@@ -43,7 +43,7 @@ Le traceur est destiné à être utilisé avec un oscilloscope en mode X-Y.
 
 Prototype validé sur breadboard.
 
-PCB en cours de finalisation.
+PCB Terminé et essais effectués
 
 ---
 
